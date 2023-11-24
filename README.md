@@ -20,7 +20,7 @@ $ python3 generator.py
 ```
 &nbsp;
 
-One is able to chain the generator function calls filter_quality with get_gcs in the main for loop. This is possible because the cost of calling the generator is very low (records are returned one by one — a generator is an iterator).
+One is able to chain the generator function calls filter_quality with get_gcs in the main for loop. This is possible because the cost of calling the generator is very low (records are returned one by one — a generator is an iterator).  It is nice how you can chain the calls as the iterator in the loop (& can add/subtract more as needed):
 &nbsp;
 
 Annotated script:
