@@ -6,8 +6,7 @@ Generators have better memory management and the ability to handle large data se
 In molecular biology, "GC skew" refers to the difference in the abundance of guanine (G) and cytosine (C) nucleotides in a DNA sequence.  The GC skew can be used to identify regions in a DNA sequence where there is an overabundance of guanine relative to cytosine or vice versa.  The SeqUtils library has a GC_skew method.
 &nbsp;
 
-Requires the file (I wanted to add it but Github said it was too big; however, one can Google to find it)
-&nbsp;
+Requires the file (I wanted to add it but Github said it was too big; however, one can Google to find it) &nbsp;
 
 SRR003265.filt.fastq.gz
 &nbsp;
