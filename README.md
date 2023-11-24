@@ -1,5 +1,5 @@
 # Generator
-## Compute the GC skew of the first 1000 records of a FASTQ file with and with generators
+## Compute the GC skew of the first 1000 records of a FASTQ file with generators
 
 Generators have better memory management and the ability to handle large data sets.  Generators offer better peformance than regular functions.  Generators allow lazy loading of data streams and can be useful if you need to inspect each element of an iterable, so that you can start to inspect the result immediately (and not wait the entire call of a normal function pulling all the data to complete).  We can stop after a certain count is reached or filter certain data. &nbsp;
 
